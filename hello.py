@@ -1,7 +1,7 @@
-print('hello world')
+print('hello world'+'hotfix')
 print('123')
 print('456')
-print('我修改了')
+print('我修')
 print('我真的修改了')
 
 # 456
