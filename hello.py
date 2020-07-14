@@ -9,5 +9,3 @@ print('我真的修改了')
 print('master后面继续编辑')
 
 print('master后面继续编辑2')
-
-# 666
