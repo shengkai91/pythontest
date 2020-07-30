@@ -16,3 +16,5 @@ print('hotfix add')
 print('iss544 add')
 
 # add 2020 07 30
+
+print('2020 07 30')
