@@ -1,4 +1,4 @@
-print('hello world'+'hotfix'+'xxxxxxx'+'dddddddd')
+print('hotfix'+'xxxxxxx'+'dddddddd')
 print('123')
 print('456')
 print('我修')
